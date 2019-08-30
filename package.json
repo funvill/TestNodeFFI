@@ -1,0 +1,15 @@
+{
+    "name": "nodejs",
+    "version": "1.0.0",
+    "description": "An example node-ffi",
+    "main": "test.js",
+    "dependencies": {
+        "ffi": "^2.3.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Steven Smethurst",
+    "license": "ISC"
+}
